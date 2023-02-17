@@ -5,6 +5,6 @@ provider "aws" {
 }
 
 resource "aws_s3_bucket" "exmaple1" {
-   bucket     = "krishna905"
+   bucket     = "jckumar905"
 }
 
